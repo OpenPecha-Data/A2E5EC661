@@ -1,0 +1,26 @@
+segment_sources:
+  PF6061461:
+    type: origin_type
+    relation: translation
+    language: en
+  PD1771B14:
+    type: origin_type
+    relation: translation
+    language: pt
+  PA190137F:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  720d378e0a8c49f991a26b01aaa946e3:
+    PF6061461: c8d661450ff44bf1a11152224c5f153e
+    PD1771B14: 8c6d263a6acf4eb1a067fa63e3e1792e
+    PA190137F: 9ac62956efb04250ba47a80f79644eb0
+  23bec4210422405c9660541462edbc86:
+    PF6061461: 221bcd534da94062af199f94801cc614
+    PD1771B14: 1dd591580f3f481faf2b375b31872d17
+    PA190137F: c2ec65676d6d40a0bf080aa5fe189d0f
+  b1b79638feb84e358e59923bbff08a2f:
+    PF6061461: cec7c1e292de42ea9955939a5942b92a
+    PD1771B14: d1ceb8cda52f464ead35742d19440fcb
+    PA190137F: 39dc98a9ea5842489d110184063c0bc9
